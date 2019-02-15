@@ -6,3 +6,4 @@
  * Time: 19:57
  */
 echo 'synan';
+echo 'test';
